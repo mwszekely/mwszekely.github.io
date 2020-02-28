@@ -1,2 +1,3 @@
-SPC player
-Very WIP
+JavaScript SPC Player
+
+*Very* WIP
